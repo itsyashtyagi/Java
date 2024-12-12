@@ -1,4 +1,4 @@
-class Human {
+class Human extends Object {
     private int age; 
     private String name; 
 
